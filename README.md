@@ -50,3 +50,4 @@ SFML
 
 "# sortingVisualiser" 
 "# visualisingSorting" 
+"# sortingVisualiser" 
